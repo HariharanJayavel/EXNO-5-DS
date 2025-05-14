@@ -245,6 +245,3 @@ plt.legend()
 # Result:
 Data Visualization using matplot python library for the given datas has been performed
 successfully
-
-# Result:
- Include your result here
